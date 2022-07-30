@@ -114,3 +114,7 @@ git add <имя файла>
    git clone <repisitori_url>
 ```
  ghbdtnbr
+ rg
+ seagas
+ aeg
+ rayaa
